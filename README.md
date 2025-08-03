@@ -24,4 +24,4 @@ This project uses the UCI Student Performance Dataset to analyze what factors co
 4. Open the PBIDS in Power BI to start creating visuals
 
 ## Dataset
-- Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance)
+- Source: [https://archive.ics.uci.edu/dataset/320/student+performance](https://archive.ics.uci.edu/dataset/320/student+performance)
